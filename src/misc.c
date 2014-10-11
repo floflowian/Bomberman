@@ -1,10 +1,4 @@
-/*
- * misc.c
- *
- *  Created on: 15 nov. 2010
- *      Author: Nicolas Aucouturier, Laurent R�veill�re
- */
-
+﻿
 #include "../include/misc.h"
 #include "../include/constant.h"
 

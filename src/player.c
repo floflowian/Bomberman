@@ -1,9 +1,4 @@
-/*
- * player.c
- *
- *  Created on: 15 nov. 2010
- *      Author: Nicolas Aucouturier, Laurent Reveillere
- */
+﻿
 
 #include <stdio.h>
 #include <stdlib.h>
